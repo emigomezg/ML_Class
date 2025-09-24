@@ -1,0 +1,7 @@
+name: mi_ambiente
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+prefix: C:\Users\emi_g\anaconda3\envs\mi_ambiente
